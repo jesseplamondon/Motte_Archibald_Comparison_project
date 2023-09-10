@@ -1,5 +1,8 @@
 # Motte_Archibald_Comparison_project
 
+## Summary
+This is a Jupyter Notebook Project in which I analyzed the differences between Tyler Motte and Josh Archibald - given the recent replacement of Archibald with Motte on the Tampa Bay Lightning after Archibald's contract termination - based on key statistics for 4th line Right Wingers; these statistics were: Pts/GP, Hits/GP, Blocks/GP & PIM's/GP.
+
 ## Analysis
 In comparing Tyler Motte and Josh Archibald across the above statistics - Points per Game, Penalties in Minutes per Game, Hits per Game and Blocks per Game - it can be determined that there is strong evidence to suggest that Motte is a strong replacement for Archibald at the 4th line Right Wing position. Via linear ridge regression, with consideration of the cubic regression, the data suggests that Motte will surpass/outpus a similar points production to that of Archibald, while also significantly outperforming Archibald in Penalty Avoidance & Blocks; however, Archibald was projected to surpass Motte in Hits per 60 for the upcoming season to varying degrees.
 
